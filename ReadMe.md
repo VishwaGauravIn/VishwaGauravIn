@@ -34,4 +34,4 @@ if (codeWorking == True){
 ```
 
 [![](https://readme-typing-svg.herokuapp.com?color=FFC300&lines=Thanks+for+Visiting+my+GitHub+Profile)]() </br>
-![](https://komarev.com/ghpvc/?username=VishwaGauravIn&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=VishwaGauravIn&label=Profile+Views&color=yellow)
