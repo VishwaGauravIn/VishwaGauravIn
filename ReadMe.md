@@ -1,4 +1,5 @@
-<h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vishwa Gaurav </br> </br>
+<h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vishwa Gaurav </br> 
+<img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0103.gif" width="2000px" height="25"> </br>
 <a href="https://twitter.com/VishwaGauravIn"><img alt="" src="https://img.shields.io/badge/@VishwaGauravIn-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 </h1>
 
@@ -35,3 +36,8 @@ if (codeWorking == True){
 
 [![](https://readme-typing-svg.herokuapp.com?color=FFC300&lines=Thanks+for+Visiting+my+GitHub+Profile)]() </br>
 ![](https://komarev.com/ghpvc/?username=VishwaGauravIn&label=Profile+Views&color=yellow)
+
+---
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
+</p>
