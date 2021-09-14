@@ -1,10 +1,10 @@
-# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vishwa Gaurav 
-<center>
+<h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vishwa Gaurav </br> </br>
 <a href="https://twitter.com/VishwaGauravIn"><img alt="" src="https://img.shields.io/badge/@VishwaGauravIn-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-</center>
+</h1>
 
-### 🏆 Modder
-### 💛 Learning Development
+<h3 align="center"> 🏆 Modder </br>
+💛 Learning Development
+</h3>
 
 # Tags 📌
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
