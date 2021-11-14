@@ -39,7 +39,7 @@
 #### Design
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
 ![Framer](https://img.shields.io/badge/-Framer-000?&logo=framer)
-![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?&logo=adobe%lightroom)
+![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?&logo=adobe%20lightroom)
 ![Canva](https://img.shields.io/badge/-Canva-000?&logo=canva)
 
 
