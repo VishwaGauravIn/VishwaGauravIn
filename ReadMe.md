@@ -1,45 +1,71 @@
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vishwa Gaurav </br> 
 </h1>
+<p align="center">  <b>ϟ</b> I love Creating new things and currently, I am doing <b>Web Development ϟ </b></p>
 <p align="center">
-<a href="https://twitter.com/VishwaGauravIn"><img alt="" src="https://img.shields.io/badge/@VishwaGauravIn-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="vertical-align:center" /></a>
-</p>
-<h3 align="center"> 🏆 Modder </br>
-💛 Learning Development
-</h3>
+<a href="https://twitter.com/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/@VishwaGauravIn-%231DA1F2.svg?logo=Twitter&logoColor=wheat" style="vertical-align:center" /></a>
+ <a href="https://paypal.me/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/Donate-00457C?logo=paypal&logoColor=wheat" style="vertical-align:center" /></a></p>
 
-# Tags 📌
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<!--
- -->
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+## Creation 👨‍💻
+### <img src="https://raw.githubusercontent.com/VishwaGauravIn/Images/35e263da9e2e2a9a3d9312931ed555630f475341/react.svg" width="16px" /> Tools for Tech : 
+[Tools for Tech](https://tft.vercel.app), here you can find useful tools for various Social Media platforms such as Twitter, Facebook, Instagram, YouTube, and more. This is open source project and repo is available on [GitHub](https://github.com/VishwaGauravIn/tools-for-tech)
 
-<!--
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
--->
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-# Current GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=vishwagauravin&show_icons=true&hide_border=true&theme=gruvbox" >
+### <img src="https://ytmp.vercel.app/PicsArt_11-13-11.55.52.png" width="16px" />  YTMP : YouTube Music Player 
+[YTMP : YouTube Music Player](https://ytmp.vercel.app) is the First and the Only YouTube Music Player that lets you play any youtube video as audio with tons of features such as Background play, Playlist merger, No Ads, and many more for free while saving up to 98% of your data.
+<p align="right">
+.. working on few more projects 😉 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=VishwaGauravIn&theme=gruvbox)]()
+## Tech Stack 💻
+#### Languages
+![Java](https://img.shields.io/badge/-Java-000?&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown)
+![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua)
+
+#### JS Framework/Library
+![Next JS](https://img.shields.io/badge/-NextJS-000?&logo=next.js)
+![React](https://img.shields.io/badge/-ReactJS-000?&logo=react)
+![Threejs](https://img.shields.io/badge/-ThreeJS-000?&logo=three.js)
+
+#### CSS Framework/Library/Pre-processors
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
+![MUI](https://img.shields.io/badge/-MUI-000?&logo=material-ui)
+![PostCSS](https://img.shields.io/badge/-PostCSS-000?&logo=postcss)
+![SASS](https://img.shields.io/badge/-SASS-000?&logo=sass)
+
+#### Design
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
+![Framer](https://img.shields.io/badge/-Framer-000?&logo=framer)
+![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?&logo=adobe%lightroom)
+![Canva](https://img.shields.io/badge/-Canva-000?&logo=canva)
+
+
+#### Backend (Not my cup of coffee ☕)
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=node.js&logoColor=pink)
+![Express.js](https://img.shields.io/badge/-ExpressJS-000?&logo=express)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
+![API](https://img.shields.io/badge/-API-000?&logo=fastapi)
+
+#### Web Hosting
+![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel)
+![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?&logo=github)
+![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=netlify)
+
+#### Package Manager
+![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm)
+![Yarn](https://img.shields.io/badge/-yarn-000?&logo=yarn)
+
+#### Version Control
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 
 ``` java
-if (codeWorking == True){
+if (codeWorking){
             while (codeQuality < perfectCode){
                 codeQuality++;
             }
@@ -47,10 +73,25 @@ if (codeWorking == True){
 // - Vishwa Gaurav
 ```
 
-[![](https://readme-typing-svg.herokuapp.com?color=FFC300&lines=Thanks+for+Visiting+my+GitHub+Profile)]() </br>
-![](https://komarev.com/ghpvc/?username=VishwaGauravIn&label=Profile+Views&color=yellow)
+<!--
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
+
+## Current GitHub Stats 📊
+![Stats](https://github-readme-stats.vercel.app/api?username=vishwagauravin&show_icons=true&hide_border=true&theme=gruvbox&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishwaGauravIn&layout=compact&theme=gruvbox&hide_border=true&count_private=true&custom_title=Most%20Used%20Languages%20on%20GitHub)
+
+
+### Thanks for Visiting my GitHub Profile!
 
 ---
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
+
+![](https://komarev.com/ghpvc/?username=VishwaGauravIn&label=Profile+Views&color=yellow)
+
