@@ -32,6 +32,7 @@
 ![Next JS](https://img.shields.io/badge/-NextJS-000?&logo=next.js)
 ![React](https://img.shields.io/badge/-ReactJS-000?&logo=react)
 ![Threejs](https://img.shields.io/badge/-ThreeJS-000?&logo=three.js)
+![Angular](https://img.shields.io/badge/-AngularJS-000?&logo=angular)
 
 #### CSS Framework/Library/Pre-processors
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwind-css)
