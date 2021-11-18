@@ -10,7 +10,10 @@
 [Tools for Tech](https://tft.vercel.app), here you can find useful tools for various Social Media platforms such as Twitter, Facebook, Instagram, YouTube, and more. This is an open source project and repo is available on [GitHub](https://github.com/VishwaGauravIn/tools-for-tech)
 
 ### <img src="https://ytmp.vercel.app/PicsArt_11-13-11.55.52.png" width="16px" />  YTMP : YouTube Music Player 
-[YTMP : YouTube Music Player](https://ytmp.vercel.app) is the First and the Only YouTube Music Player that lets you play any youtube video as audio with tons of features such as Background play, Playlist merger, No Ads, and many more for free while saving up to 98% of your data.
+[YTMP : YouTube Music Player](https://ytmp.vercel.app) is the First and the Only YouTube Music Player that lets you play any youtube video as audio with tons of features such as Background play, Playlist merger, No Ads, and many more for free while saving up to 98% of your data. [EARLY ACCESS]
+
+### <img src="https://ytdlpro.vercel.app/logo.png" width="16px" />  YTDLpro
+[YTDLpro](https://ytdlpro.vercel.app) is a website to Download any YouTube Video in one click without any Ads. [BETA]
 
 ### <img src="https://flip-it.vercel.app/logo.png" width="16px" />  Flip-it!
 [Flip-it!](https://flip-it.vercel.app) is a website where you can Flip/Toss a Coin in a minimal way. This is an open souce project that I created for fun and repo is available on [GitHub](https://github.com/VishwaGauravIn/flip-it)
