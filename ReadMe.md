@@ -17,7 +17,7 @@
 Presenting [Capture my Tweet](https://ytools.vercel.app) , Turn your tweets into wonderful images and post them anywhere! Tons of Features and Customisations, all for free ! 
 
 ### <img src="https://raw.githubusercontent.com/VishwaGauravIn/Images/35e263da9e2e2a9a3d9312931ed555630f475341/react.svg" width="16px" /> Tools for Tech : 
-[Tools for Tech](https://tft.vercel.app), here you can find useful tools for various Social Media platforms such as Twitter, Facebook, Instagram, YouTube, and more. This is an open source project and repo is available on [GitHub](https://github.com/VishwaGauravIn/tools-for-tech) . PS- This was my first every project ;) 
+[Tools for Tech](https://tft.vercel.app), here you can find useful tools for various Social Media platforms such as Twitter, Facebook, Instagram, YouTube, and more. This is an open source project and repo is available on [GitHub](https://github.com/VishwaGauravIn/tools-for-tech) . PS- This was my first ever project ;) 
 
 ### <img src="https://ytdlpro.vercel.app/logo.png" width="16px" />  YTDLpro
 [YTDLpro](https://ytdlpro.herokuapp.com/) is a website to Download any YouTube Video in one click without any Ads. First ever YouTube downloader with Playlist Download Support !! [BETA]
