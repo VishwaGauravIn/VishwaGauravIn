@@ -23,7 +23,7 @@ Presenting [Capture my Tweet](https://ytools.vercel.app) , Turn your tweets into
 [YTDLpro](https://ytdlpro.herokuapp.com/) is a website to Download any YouTube Video in one click without any Ads. First ever YouTube downloader with Playlist Download Support !! [BETA]
 
 ### <img src="https://flip-it.vercel.app/logo.png" width="16px" />  Flip-it!
-[Flip-it!](https://flip-it.vercel.app) is a website where you can Flip/Toss a Coin in a minimal way. This is an open souce project that I created for fun and repo is available on [GitHub](https://github.com/VishwaGauravIn/flip-it)
+[Flip-it!](https://flip-it.vercel.app) is a website where you can Flip/Toss a Coin in a minimal way. This is an open source project that I created for fun and repo is available on [GitHub](https://github.com/VishwaGauravIn/flip-it)
 
 <p align="right">
 .. working on few more projects 😉 </p>
