@@ -17,6 +17,9 @@
 ### <img src="https://capturemytweet.vercel.app/logo.png" width="16px" />  Capture my Tweet
 Presenting [Capture my Tweet](https://ytools.vercel.app) , Turn your tweets into wonderful images and post them anywhere! Tons of Features and Customisations, all for free ! 
 
+<!-- ### <img src="https://cdn-icons.flaticon.com/png/128/471/premium/471568.png?token=exp=1639654209~hmac=d7a9a6d7bf1a55ba6e6d4f3329522cc6" width="16px" />  Fresh Drops
+[Fresh Drops](https://freshdrops.vercel.app) is a website for NFT Listing, boosting and selling without any hassel. Handpicked and verified NFTs are waiting for you! -->
+
 ### <img src="https://raw.githubusercontent.com/VishwaGauravIn/Images/35e263da9e2e2a9a3d9312931ed555630f475341/react.svg" width="16px" /> Tools for Tech : 
 [Tools for Tech](https://tft.vercel.app), here you can find useful tools for various Social Media platforms such as Twitter, Facebook, Instagram, YouTube, and more. This is an open source project and repo is available on [GitHub](https://github.com/VishwaGauravIn/tools-for-tech) . PS- This was my first ever project ;) 
 
