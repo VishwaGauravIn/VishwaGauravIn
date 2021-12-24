@@ -105,8 +105,8 @@ if (codeWorking){
 
 ## Current GitHub Stats 📊
 ![Stats](https://github-readme-stats.vercel.app/api?username=vishwagauravin&show_icons=true&hide_border=true&theme=gruvbox&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishwaGauravIn&layout=compact&theme=gruvbox&hide_border=true&count_private=true&custom_title=Most%20Used%20Languages%20on%20GitHub)
-
+## GitHub Trophies 🏆
+![GitHub Medals](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox&no-bg=true&no-frame=true)
 
 ### Thanks for Visiting my GitHub Profile!
 
