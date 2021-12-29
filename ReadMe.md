@@ -23,8 +23,11 @@ Presenting [Capture my Tweet](https://capturemytweet.in) , Turn your tweets into
 ### <img src="https://ytools.vercel.app/logo.png" width="16px" />  ytools : YouTube Toolbox
 [ytools : YouTube Toolbox](https://ytools.vercel.app) is the first YouTube toolbox, that has multiple tools which will help you to get everything that you need at one place. Features: YouTube Music Player, YouTube Downloader, Calculate Playlist length, Keyword Finder, Thumbnail downloader.
 
+### <img src="https://metaseo.itsvg.in/logo.png" width="16px" />  metaSEO : Meta tags for best SEO
+[metaSEO](https://metaseo.itsvg.in) lets you generate meta tags in one click for the best SEO of your website, rank high in search results, and appear unique when someone shares your link!
+
 ### <img src="https://cdn-icons.flaticon.com/png/128/471/premium/471568.png?token=exp=1639654209~hmac=d7a9a6d7bf1a55ba6e6d4f3329522cc6" width="16px" />  Fresh Drops
-[Fresh Drops](https://freshdrops.vercel.app) is a *Template website for NFT Listing, boosting and selling without any hassel. Handpicked and verified NFTs are waiting for you! Made for a client.
+[Fresh Drops](https://freshdrops.vercel.app) is a Template website for NFT Listing, boosting and selling without any hassel. Handpicked and verified NFTs are waiting for you! Made for a client.
 
 ### <img src="https://raw.githubusercontent.com/VishwaGauravIn/Images/35e263da9e2e2a9a3d9312931ed555630f475341/react.svg" width="16px" /> Tools for Tech : 
 [Tools for Tech](https://tft.vercel.app), here you can find useful tools for various Social Media platforms such as Twitter, Facebook, Instagram, YouTube, and more. This is an open source project and repo is available on [GitHub](https://github.com/VishwaGauravIn/tools-for-tech) . PS- This was my first ever project ;) 
