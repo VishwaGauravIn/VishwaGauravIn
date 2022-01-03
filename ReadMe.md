@@ -20,8 +20,8 @@
 ### <img src="https://capturemytweet.in/logo.png" width="16px" />  Capture my Tweet
 Presenting [Capture my Tweet](https://capturemytweet.in) , Turn your tweets into wonderful images and post them anywhere! Tons of Features and Customisations, all for free ! 
 
-### <img src="https://ytools.vercel.app/logo.png" width="16px" />  ytools : YouTube Toolbox
-[ytools : YouTube Toolbox](https://ytools.vercel.app) is the first YouTube toolbox, that has multiple tools which will help you to get everything that you need at one place. Features: YouTube Music Player, YouTube Downloader, Calculate Playlist length, Keyword Finder, Thumbnail downloader.
+### <img src="https://ytools.itsvg.in/logo.png" width="16px" />  ytools : YouTube Toolbox
+[ytools : YouTube Toolbox](https://ytools.itsvg.in) is the first YouTube toolbox, that has multiple tools which will help you to get everything that you need at one place. Features: YouTube Music Player, YouTube Downloader, Calculate Playlist length, Keyword Finder, Thumbnail downloader.
 
 ### <img src="https://metaseo.itsvg.in/logo.png" width="16px" />  metaSEO : Meta tags for best SEO
 [metaSEO](https://metaseo.itsvg.in) lets you generate meta tags in one click for the best SEO of your website, rank high in search results, and appear unique when someone shares your link!
@@ -35,8 +35,8 @@ Presenting [Capture my Tweet](https://capturemytweet.in) , Turn your tweets into
 ### <img src="https://ytdlpro.vercel.app/logo.png" width="16px" />  YTDLpro
 [YTDLpro](https://ytdlpro.herokuapp.com/) is a website to Download any YouTube Video in one click without any Ads. First ever YouTube downloader with Playlist Download Support !! [BETA]
 
-### <img src="https://prowriter.vercel.app/logo.png" width="16px" />  Pro Writer🚀
-[Pro Writer🚀](https://prowriter.vercel.app/) , Pro yet Minimal Writer for your all need! [Development in Progress]
+### <img src="https://prowriter.itsvg.in/logo.png" width="16px" />  Pro Writer🚀
+[Pro Writer🚀](https://prowriter.itsvg.in/) , Pro yet Minimal Writer for your all need! [Development in Progress]
 
 ### <img src="https://flip-it.vercel.app/logo.png" width="16px" />  Flip-it!
 [Flip-it!](https://flip-it.vercel.app) is a website where you can Flip/Toss a Coin in a minimal way. This is an open source project that I created for fun and repo is available on [GitHub](https://github.com/VishwaGauravIn/flip-it)
