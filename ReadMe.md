@@ -119,6 +119,8 @@ if (codeWorking){
 
 ## Current GitHub Stats 📊
 ![Stats](https://github-readme-stats.vercel.app/api?username=vishwagauravin&show_icons=true&hide_border=true&theme=gruvbox&count_private=true&include_all_commits=true)
+> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
+
 ## GitHub Trophies 🏆
 ![GitHub Medals](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox&no-bg=true&no-frame=true)
 
