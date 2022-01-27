@@ -3,7 +3,7 @@
 <p align="center">  <b>ϟ</b> I love Creating new things and currently, I am doing <b>Web Development ϟ </b></p>
 <p align="center">
  <a href="https://itsvg.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-00457C?logo=vercel&logoColor=wheat" style="vertical-align:center" /></a>
-<a href="https://twitter.com/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/@VishwaGauravIn-%231DA1F2.svg?logo=Twitter&logoColor=wheat" style="vertical-align:center" /></a>
+<a href="https://twitter.com/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=wheat" style="vertical-align:center" /></a>
  <a href="https://paypal.me/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/Donate-00457C?logo=paypal&logoColor=wheat" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-00457C?logo=linkedin&logoColor=wheat" style="vertical-align:center" /></a></p>
 
