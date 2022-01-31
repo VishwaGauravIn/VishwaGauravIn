@@ -127,6 +127,9 @@ if (codeWorking){
 ## GitHub Trophies 🏆
 ![GitHub Medals](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox&no-bg=true&no-frame=true)
 
+## Latest Tweet 🐦
+[![](https://tweet-img-pi.vercel.app/api?username=VishwaGauravIn)](https://twitter.com/VishwaGauravIn)
+
 ### Thanks for Visiting my GitHub Profile!
 
 ---
