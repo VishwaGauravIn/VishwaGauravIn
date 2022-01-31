@@ -125,6 +125,7 @@ if (codeWorking){
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
 <details> <summary> GitHub Trophies 🏆</summary>
+ 
 ![GitHub Medals](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox&no-bg=true&no-frame=true)
 </details>
 
