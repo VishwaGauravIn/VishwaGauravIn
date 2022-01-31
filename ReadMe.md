@@ -124,13 +124,14 @@ if (codeWorking){
 ![Stats](https://github-readme-stats.vercel.app/api?username=vishwagauravin&show_icons=true&hide_border=true&theme=gruvbox&count_private=true&include_all_commits=true)
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
-## GitHub Trophies 🏆
+<details> <summary> GitHub Trophies 🏆</summary>
 ![GitHub Medals](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox&no-bg=true&no-frame=true)
+</details>
 
-## Latest Tweet 🐦
+<details> <summary> Latest Tweet 🐦 </summary>
 > This tool (tweet-integration) is not availabe publically, made this for personal use
-
 [![](https://tweet-img-pi.vercel.app/api?username=VishwaGauravIn)](https://twitter.com/VishwaGauravIn)
+</details>
 
 ### Thanks for Visiting my GitHub Profile!
 
