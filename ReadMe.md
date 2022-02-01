@@ -143,5 +143,4 @@ if (codeWorking){
 </p>
 
 <!-- ![](https://komarev.com/ghpvc/?username=VishwaGauravIn&label=Profile+Views&color=yellow) -->
-<img src="https://github-visitor-counter-pro.vercel.app/api?id=VishwaGauravIn" />
-
+[![](https://github-visitor-counter-pro.vercel.app/api?id=VishwaGauravIn)](https://github-visitor-counter-pro.vercel.app)
