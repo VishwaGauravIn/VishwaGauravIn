@@ -142,6 +142,6 @@ if (codeWorking){
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
 
-![](https://komarev.com/ghpvc/?username=VishwaGauravIn&label=Profile+Views&color=yellow)
+<!-- ![](https://komarev.com/ghpvc/?username=VishwaGauravIn&label=Profile+Views&color=yellow) -->
 ![](https://github-visitor-counter-pro.vercel.app/api)
 
