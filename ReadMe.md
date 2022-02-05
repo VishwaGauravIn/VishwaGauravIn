@@ -129,11 +129,10 @@ if (codeWorking){
 ![GitHub Medals](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox&no-bg=true&no-frame=true)
 </details>
 
-<details> <summary> Latest Tweet 🐦 </summary>
+## Latest Tweet 🐦 
 > This tool (tweet-integration) is not availabe publically, made this for personal use
  
 [![](https://tweet-img-pi.vercel.app/api?username=VishwaGauravIn)](https://twitter.com/VishwaGauravIn)
-</details>
 
 ### Thanks for Visiting my GitHub Profile!
 
