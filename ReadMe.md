@@ -26,6 +26,9 @@ Presenting [Capture my Tweet](https://capturemytweet.in) , Turn your tweets into
 ### <img src="https://metaseo.itsvg.in/logo.png" width="16px" />  metaSEO : Meta tags for best SEO
 [metaSEO](https://metaseo.itsvg.in) lets you generate meta tags in one click for the best SEO of your website, rank high in search results, and appear unique when someone shares your link!
 
+### <img src="https://visitcount.itsvg.in/logo.png" width="16px" />  Visit Count Pro
+[Visit Count Pro](https://visitcount.itsvg.in) is More than just a Visit Counter. Best Customization, Realtime Analytics, Best No-Code Solution, Works everywhere, all for free !
+
 ### <img src="https://gprm.itsvg.in/logo.png" width="16px" />  GPRM : GitHub Profile ReadMe Maker
 [GPRM](https://gprm.itsvg.in) is the Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free !
 
