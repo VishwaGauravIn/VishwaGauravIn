@@ -15,7 +15,7 @@
 </> and Crafted with 💛 by Vishwa Gaurav
 
 ### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" />  YTMP : YouTube Music Player 
-[YTMP : YouTube Music Player](https://ytmp.itsvg.in) is the First and the Only YouTube Music Player that lets you play any youtube video as audio with tons of features such as Background play, Playlist merger, No Ads, and many more for free while saving up to 98% of your data. [EARLY ACCESS]
+[YTMP : YouTube Music Player](https://ytmp.itsvg.in) is the First and the Only YouTube Music Player that lets you play any youtube video as audio with tons of features such as Background play, Playlist merger, No Ads, and many more for free while saving up to 98% of your data.
 
 ### <img src="https://capturemytweet.in/logo.png" width="16px" />  Capture my Tweet
 Presenting [Capture my Tweet](https://capturemytweet.in) , Turn your tweets into wonderful images and post them anywhere! Tons of Features and Customisations, all for free ! 
@@ -85,9 +85,9 @@ Presenting [Capture my Tweet](https://capturemytweet.in) , Turn your tweets into
 
 #### Database
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
-![Firebase](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 
-#### Backend (Not my cup of coffee ☕)
+#### Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
 ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
@@ -145,5 +145,4 @@ if (codeWorking){
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
 
-<!-- ![](https://komarev.com/ghpvc/?username=VishwaGauravIn&label=Profile+Views&color=yellow) -->
 [![](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://github-visitor-counter-pro.vercel.app)
