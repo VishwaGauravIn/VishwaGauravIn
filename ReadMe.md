@@ -129,7 +129,7 @@ if (codeWorking){
 
 <details> <summary> GitHub Trophies 🏆</summary>
  
-![GitHub Medals](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox&no-bg=true&no-frame=true)
+![GitHub Medals](https://github-profile-trophy.vercel.app/?username=VishwaGauravIn&theme=gruvbox&no-bg=true&no-frame=true)
 </details>
 
 <!-- Dev in Progress -->
