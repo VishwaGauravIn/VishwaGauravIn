@@ -47,6 +47,9 @@ Presenting [Capture my Tweet](https://capturemytweet.in) , Turn your tweets into
 ### <img src="https://prowriter.itsvg.in/logo.png" width="16px" />  Pro Writer🚀
 [Pro Writer🚀](https://prowriter.itsvg.in/) , Pro yet Minimal Writer for your all need! [Development in Progress] . [Contribute](https://github.com/VishwaGauravIn/pro-writer)
 
+### <img src="https://realtime-news.vercel.app/favicon.ico" width="16px" />  Realtime News
+[Realtime News](https://realtime-news.vercel.app/) is Just a simple website made with NextJS and CSS that shows realtime news.
+
 ### <img src="https://flip-it.vercel.app/logo.png" width="16px" />  Flip-it!
 [Flip-it!](https://flip-it.vercel.app) is a website where you can Flip/Toss a Coin in a minimal way. This is an open source project that I created for fun and repo is available on [GitHub](https://github.com/VishwaGauravIn/flip-it)
 
