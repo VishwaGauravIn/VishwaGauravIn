@@ -75,12 +75,13 @@ Presenting [Capture my Tweet](https://capturemytweet.in) , Turn your tweets into
 #### CSS Framework/Library/Pre-processors
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
-![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=material-ui)
+![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
 ![PostCSS](https://img.shields.io/badge/-PostCSS-000?style=for-the-badge&logo=postcss)
 ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
 
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer)
 ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
