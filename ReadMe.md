@@ -35,6 +35,9 @@ Presenting [Capture my Tweet](https://capturemytweet.in) , Turn your tweets into
 ### <img src="https://readmd.itsvg.in/logo.png" width="16px" />  readMD : Create Awesome ReadMe
 [readMD : Create Awesome ReadMe](https://readmd.itsvg.in) helps you to Create Awesome ReadMe without code in less than 2 min and Stand out 🌟
 
+### <img src="https://github.com/VishwaGauravIn/Images/blob/main/cm_logo.png?raw=true" width="16px" />  Curiomind
+[Curiomind](https://curiomind.netlify.app/) is an online learning platform that offers various courses for your development
+
 ### <img src="https://cdn-icons.flaticon.com/png/128/471/premium/471568.png?token=exp=1639654209~hmac=d7a9a6d7bf1a55ba6e6d4f3329522cc6" width="16px" />  Fresh Drops
 [Fresh Drops](https://freshdrops.vercel.app) is a Template website for NFT Listing, boosting and selling without any hassel. Handpicked and verified NFTs are waiting for you! Made for a client.
 
