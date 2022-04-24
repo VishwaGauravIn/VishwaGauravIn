@@ -53,6 +53,10 @@ Presenting [Capture my Tweet](https://capturemytweet.in) , Turn your tweets into
 ### <img src="https://realtime-news.vercel.app/favicon.ico" width="16px" />  Realtime News
 Hashing and Encryption made easy using [#Hash](https://realtime-news.vercel.app/). SHA-1, SHA256, SHA384, SHA512, MD5 hashing with 100% accuracy in realtime conversion.
 
+### <img src="https://realtime-news.vercel.app/favicon.ico" width="16px" />  SerBot
+[SerBot](https://serbot.vercel.app/) is admin panel for Smart Work Clothing. In concept of this we are using sensors, Wi-Fi module and GPS through which we measure  environmental and worker conditions are these data presented in dashboard available to safety specialist physicians, upper management and many other supporting. Key insights leading to risk assessments and mitigation actions to reduce or preventing injuries and accident.
+
+
 ### <img src="https://hash.itsvg.in/logo.png" width="16px" />  #Hash
 [Realtime News](https://hash.itsvg.in/) is Just a simple website made with NextJS and CSS that shows realtime news.
 
