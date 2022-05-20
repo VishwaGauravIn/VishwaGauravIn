@@ -41,8 +41,8 @@ Presenting [Capture my Tweet](https://capturemytweet.in) , Turn your tweets into
 ### <img src="https://github.com/VishwaGauravIn/Images/blob/main/cm_logo.png?raw=true" width="16px" />  Curiomind
 [Curiomind](https://curiomind.netlify.app/) is an online learning platform that offers various courses for your development
 
-### <img src="https://cdn-icons.flaticon.com/png/128/471/premium/471568.png?token=exp=1639654209~hmac=d7a9a6d7bf1a55ba6e6d4f3329522cc6" width="16px" />  Fresh Drops
-[Fresh Drops](https://freshdrops.vercel.app) is a Template website for NFT Listing, boosting and selling without any hassel. Handpicked and verified NFTs are waiting for you! Made for a client.
+### <img src="https://itsvg.in/fd-logo.png" width="16px" />  Fresh Drops
+[Fresh Drops](https://itsvg.in/fd-logo.png) is a Template website for NFT Listing, boosting and selling without any hassel. Handpicked and verified NFTs are waiting for you! Made for a client.
 
 ### <img src="https://raw.githubusercontent.com/VishwaGauravIn/Images/35e263da9e2e2a9a3d9312931ed555630f475341/react.svg" width="16px" /> Tools for Tech : 
 [Tools for Tech](https://tft.vercel.app), here you can find useful tools for various Social Media platforms such as Twitter, Facebook, Instagram, YouTube, and more. This is an open source project and repo is available on [GitHub](https://github.com/VishwaGauravIn/tools-for-tech) . PS- This was my first ever project ;) 
