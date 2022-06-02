@@ -1,4 +1,4 @@
-<h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vishwa Gaurav </br> 
+<h1 align="center"> 👋🏻, I'm Vishwa Gaurav </br> 
 </h1>
 <p align="center">  <b>ϟ</b> I love Creating new things and currently, I am doing <b>Web Development ϟ </b></p>
 <p align="center">
