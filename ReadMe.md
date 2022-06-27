@@ -57,7 +57,7 @@ Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save liv
 [Pro Writer🚀](https://prowriter.itsvg.in/) , Pro yet Minimal Writer for your all need! [Development in Progress] . [Contribute](https://github.com/VishwaGauravIn/pro-writer)
 
 ### <img src="https://realtime-news.vercel.app/favicon.ico" width="16px" />  Realtime News
-Hashing and Encryption made easy using [#Hash](https://realtime-news.vercel.app/). SHA-1, SHA256, SHA384, SHA512, MD5 hashing with 100% accuracy in realtime conversion.
+[Realtime News](https://hash.itsvg.in/) is Just a simple website made with NextJS and CSS that shows realtime news.
 
 ### <img src="https://vq.itsvg.in/logo.png" width="16px" /> VQ - Test Your MIND and BODY
 [VQ](https://vq.itsvg.in) is Low level sentimental analysis to test your Mind and Brain in less than 5 minutes.
@@ -67,7 +67,7 @@ Hashing and Encryption made easy using [#Hash](https://realtime-news.vercel.app/
 
 
 ### <img src="https://hash.itsvg.in/logo.png" width="16px" />  #Hash
-[Realtime News](https://hash.itsvg.in/) is Just a simple website made with NextJS and CSS that shows realtime news.
+Hashing and Encryption made easy using [#Hash](https://realtime-news.vercel.app/). SHA-1, SHA256, SHA384, SHA512, MD5 hashing with 100% accuracy in realtime conversion.
 
 ### <img src="https://flip-it.vercel.app/logo.png" width="16px" />  Flip-it!
 [Flip-it!](https://flip-it.vercel.app) is a website where you can Flip/Toss a Coin in a minimal way. This is an open source project that I created for fun and repo is available on [GitHub](https://github.com/VishwaGauravIn/flip-it)
