@@ -20,9 +20,6 @@
 ### <img src="https://capturemytweet.in/logo.png" width="16px" />  Capture my Tweet
 Presenting [Capture my Tweet](https://capturemytweet.in) , Turn your tweets into wonderful images and post them anywhere! Tons of Features and Customisations, all for free ! 
 
-### <img src="https://ytools.itsvg.in/logo.png" width="16px" />  ytools : YouTube Toolbox
-[ytools : YouTube Toolbox](https://ytools.itsvg.in) is the first YouTube toolbox, that has multiple tools which will help you to get everything that you need at one place. Features: YouTube Music Player, YouTube Downloader, Calculate Playlist length, Keyword Finder, Thumbnail downloader.
-
 ### <img src="https://metaseo.itsvg.in/logo.png" width="16px" />  metaSEO : Meta tags for best SEO
 [metaSEO](https://metaseo.itsvg.in) lets you generate meta tags in one click for the best SEO of your website, rank high in search results, and appear unique when someone shares your link!
 
@@ -31,6 +28,12 @@ Presenting [Capture my Tweet](https://capturemytweet.in) , Turn your tweets into
 
 ### <img src="https://gprm.itsvg.in/logo.png" width="16px" />  GPRM : GitHub Profile ReadMe Maker
 [GPRM](https://gprm.itsvg.in) is the Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free !
+
+### <img src="https://blazeup.itsvg.in/logo.png" width="16px" />  BlazeUp
+[BlazeUp](https://blazeup.itsvg.in) provides Blazzzing fast responses directly to your inbox. Endless Integrations, Countless awesome things to do with BlazeUp.
+
+### <img src="https://ytools.itsvg.in/logo.png" width="16px" />  ytools : YouTube Toolbox
+[ytools : YouTube Toolbox](https://ytools.itsvg.in) is the first YouTube toolbox, that has multiple tools which will help you to get everything that you need at one place. Features: YouTube Music Player, YouTube Downloader, Calculate Playlist length, Keyword Finder, Thumbnail downloader.
 
 ### <img src="https://readmd.itsvg.in/logo.png" width="16px" />  readMD : Create Awesome ReadMe
 [readMD : Create Awesome ReadMe](https://readmd.itsvg.in) helps you to Create Awesome ReadMe without code in less than 2 min and Stand out 🌟
