@@ -170,7 +170,7 @@ if (codeWorking){
 
 <!-- Dev in Progress -->
 ## Latest Tweet 🐦 
-> This tool (tweet-integration) is not availabe publically, made this for personal use
+> This tool (tweet-integration) is not available publically, made this for personal use
  
 [![](https://tweet-img-pi.vercel.app/api?username=VishwaGauravIn)](https://twitter.com/VishwaGauravIn)
 
