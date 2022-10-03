@@ -50,6 +50,9 @@ Through [SummerX](https://summerx.itsvg.in) we are on a mission 🚀 to save liv
 ### <img src="https://github.com/VishwaGauravIn/Images/blob/main/cm_logo.png?raw=true" width="16px" />  Curiomind
 [Curiomind](https://curiomind.netlify.app/) is an online learning platform that offers various courses for your development
 
+### <img src="https://teamhnm.org/logo.png" width="16px" />  Hunger No More
+Website for NGO [Hunger No More (HNM)](https://teamhnm.org). Made with NextJS and TailwindCSS. We reduce the wastage of food by using it for a good cause and provide a healthy meal to kids so that they can sleep with no hunger.
+
 ### <img src="https://itsvg.in/fd-logo.png" width="16px" />  Fresh Drops
 [Fresh Drops](https://itsvg.in/fd-logo.png) is a Template website for NFT Listing, boosting and selling without any hassel. Handpicked and verified NFTs are waiting for you! Made for a client.
 
