@@ -29,8 +29,11 @@ Presenting [Capture my Tweet](https://capturemytweet.in) , Turn your tweets into
 ### <img src="https://gprm.itsvg.in/logo.png" width="16px" />  GPRM : GitHub Profile ReadMe Maker
 [GPRM](https://gprm.itsvg.in) is the Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free !
 
-### <img src="https://blazeup.itsvg.in/logo.png" width="16px" />  BlazeUp
+### <img src="https://blazeup.itsvg.in/logo.png" width="16px" /> BlazeUp
 [BlazeUp](https://blazeup.itsvg.in) provides Blazzzing fast responses directly to your inbox. Endless Integrations, Countless awesome things to do with BlazeUp.
+
+### <img src="https://spiffy.itsvg.in/logo.png" width="16px" /> Spiffy - Aesthetic Screenshots ✨
+[Spiffy](https://spiffy.itsvg.in/) converts your boring screenshots into aesthetic and beautiful screenshots. Upto 8K download, Custom & AI Background, Shadows, Corners & more.
 
 ### <img src="https://ytools.itsvg.in/logo.png" width="16px" />  ytools : YouTube Toolbox
 [ytools : YouTube Toolbox](https://ytools.itsvg.in) is the first YouTube toolbox, that has multiple tools which will help you to get everything that you need at one place. Features: YouTube Music Player, YouTube Downloader, Calculate Playlist length, Keyword Finder, Thumbnail downloader.
