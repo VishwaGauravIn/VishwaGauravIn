@@ -80,7 +80,7 @@ Website for NGO [Hunger No More (HNM)](https://teamhnm.org). Made with NextJS an
 
 
 ### <img src="https://hash.itsvg.in/logo.png" width="16px" />  #Hash
-Hashing and Encryption made easy using [#Hash](https://realtime-news.vercel.app/). SHA-1, SHA256, SHA384, SHA512, MD5 hashing with 100% accuracy in realtime conversion.
+Hashing and Encryption made easy using [#Hash](https://hash.itsvg.in). SHA-1, SHA256, SHA384, SHA512, MD5 hashing with 100% accuracy in realtime conversion.
 
 ### <img src="https://flip-it.vercel.app/logo.png" width="16px" />  Flip-it!
 [Flip-it!](https://flip-it.vercel.app) is a website where you can Flip/Toss a Coin in a minimal way. This is an open source project that I created for fun and repo is available on [GitHub](https://github.com/VishwaGauravIn/flip-it)
