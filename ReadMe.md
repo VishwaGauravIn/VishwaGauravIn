@@ -179,7 +179,7 @@ if (codeWorking){
 ## Latest Tweet 🐦 
 > This tool (tweet-integration) is not available publically, Coming Soon...
  
-[![](https://gtce.vercel.app/api?username=VishwaGauravIn&theme=jolly)](https://twitter.com/VishwaGauravIn)
+[![](https://gtce.vercel.app/api?username=VishwaGauravIn&theme=jolly&response=false)](https://twitter.com/VishwaGauravIn)
 
 ### Thanks for Visiting my GitHub Profile!
 
