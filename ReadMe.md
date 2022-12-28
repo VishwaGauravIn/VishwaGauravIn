@@ -21,20 +21,23 @@
 ### <img src="https://capturemytweet.itsvg.in/logo.png" width="16px" />  Capture my Tweet
 Presenting [Capture my Tweet](https://capturemytweet.itsvg.in) , Turn your tweets into wonderful images and post them anywhere! Tons of Features and Customisations, all for free ! 
 
-### <img src="https://metaseo.itsvg.in/logo.png" width="16px" />  metaSEO : Meta tags for best SEO
-[metaSEO](https://metaseo.itsvg.in) lets you generate meta tags in one click for the best SEO of your website, rank high in search results, and appear unique when someone shares your link!
-
 ### <img src="https://visitcount.itsvg.in/logo.png" width="16px" />  Visit Count Pro
 [Visit Count Pro](https://visitcount.itsvg.in) is More than just a Visit Counter. Best Customization, Realtime Analytics, Best No-Code Solution, Works everywhere, all for free !
 
 ### <img src="https://gprm.itsvg.in/logo.png" width="16px" />  GPRM : GitHub Profile ReadMe Maker
 [GPRM](https://gprm.itsvg.in) is the Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free !
 
+### <img src="https://gtce.itsvg.in/logo.png" width="16px" />  GTCE : GitHub Twitter Card Embed
+[GTCE](https://gprm.itsvg.in) is the Best Realtime Tweet embed with 60+ awesome themes. Get a Verified badge, Showcase your Tweet on Website, GitHub ReadMe or anywhere else, Download your tweets as image.
+
 ### <img src="https://blazeup.itsvg.in/logo.png" width="16px" /> BlazeUp
 [BlazeUp](https://blazeup.itsvg.in) provides Blazzzing fast responses directly to your inbox. Endless Integrations, Countless awesome things to do with BlazeUp.
 
 ### <img src="https://spiffy.itsvg.in/logo.png" width="16px" /> Spiffy - Aesthetic Screenshots ✨
 [Spiffy](https://spiffy.itsvg.in/) converts your boring screenshots into aesthetic and beautiful screenshots. Upto 8K download, Custom & AI Background, Shadows, Corners & more.
+
+### <img src="https://metaseo.itsvg.in/logo.png" width="16px" />  metaSEO : Meta tags for best SEO
+[metaSEO](https://metaseo.itsvg.in) lets you generate meta tags in one click for the best SEO of your website, rank high in search results, and appear unique when someone shares your link!
 
 ### <img src="https://ytools.itsvg.in/logo.png" width="16px" />  ytools : YouTube Toolbox
 [ytools : YouTube Toolbox](https://ytools.itsvg.in) is the first YouTube toolbox, that has multiple tools which will help you to get everything that you need at one place. Features: YouTube Music Player, YouTube Downloader, Calculate Playlist length, Keyword Finder, Thumbnail downloader.
