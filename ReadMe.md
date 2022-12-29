@@ -177,12 +177,8 @@ if (codeWorking){
 ## GitHub Streaks 🔥
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=VishwaGauravIn&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
-
-<!-- Dev in Progress -->
-## Latest Tweet 🐦 
-> This tool (tweet-integration) is not available publically, Coming Soon...
- 
-[![](https://gtce.vercel.app/api?username=VishwaGauravIn&theme=jolly&response=false)](https://twitter.com/VishwaGauravIn)
+## Latest Tweet 🐦  
+[![](https://gtce.itsvg.in/api?username=VishwaGauravIn&theme=jolly&response=false)](https://twitter.com/VishwaGauravIn)
 
 ### Thanks for Visiting my GitHub Profile!
 
