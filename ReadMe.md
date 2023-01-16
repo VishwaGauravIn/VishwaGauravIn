@@ -29,7 +29,7 @@ Presenting [Capture my Tweet](https://capturemytweet.itsvg.in) , Turn your tweet
 [GPRM](https://gprm.itsvg.in) is the Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free !
 
 ### <img src="https://gtce.itsvg.in/logo.png" width="16px" />  GTCE : GitHub Twitter Card Embed
-[GTCE](https://gprm.itsvg.in) is the Best Realtime Tweet embed with 60+ awesome themes. Get a Verified badge, Showcase your Tweet on Website, GitHub ReadMe or anywhere else, Download your tweets as image.
+[GTCE](https://gtce.itsvg.in) is the Best Realtime Tweet embed with 60+ awesome themes. Get a Verified badge, Showcase your Tweet on Website, GitHub ReadMe or anywhere else, Download your tweets as image.
 
 ### <img src="https://blazeup.itsvg.in/logo.png" width="16px" /> BlazeUp
 [BlazeUp](https://blazeup.itsvg.in) provides Blazzzing fast responses directly to your inbox. Endless Integrations, Countless awesome things to do with BlazeUp.
