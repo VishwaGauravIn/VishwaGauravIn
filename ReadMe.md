@@ -37,6 +37,9 @@ Presenting [Capture my Tweet](https://capturemytweet.itsvg.in) , Turn your tweet
 ### <img src="https://spiffy.itsvg.in/logo.png" width="16px" /> Spiffy - Aesthetic Screenshots ✨
 [Spiffy](https://spiffy.itsvg.in/) converts your boring screenshots into aesthetic and beautiful screenshots. Upto 8K download, Custom & AI Background, Shadows, Corners & more.
 
+### <img src="https://curioai.itsvg.in/logo.png" width="16px" /> curioAI
+[curioAI](https://curioai.itsvg.in/) is a magical website that always provides the answers you seek! Plus, elevate your social media game by generating engaging Tweets and LinkedIn posts to boost your engagement.
+
 ### <img src="https://metaseo.itsvg.in/logo.png" width="16px" />  metaSEO : Meta tags for best SEO
 [metaSEO](https://metaseo.itsvg.in) lets you generate meta tags in one click for the best SEO of your website, rank high in search results, and appear unique when someone shares your link!
 
