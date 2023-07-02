@@ -19,9 +19,6 @@
 ### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" />  YTMP : YouTube Music Player 
 [YTMP : YouTube Music Player](https://ytmp.itsvg.in) is the First and the Only YouTube Music Player that lets you play any youtube video as audio with tons of features such as Background play, Playlist merger, No Ads, and many more for free while saving up to 98% of your data.
 
-### <img src="https://capturemytweet.itsvg.in/logo.png" width="16px" />  Capture my Tweet
-Presenting [Capture my Tweet](https://capturemytweet.itsvg.in) , Turn your tweets into wonderful images and post them anywhere! Tons of Features and Customisations, all for free ! 
-
 ### <img src="https://visitcount.itsvg.in/logo.png" width="16px" />  Visit Count Pro
 [Visit Count Pro](https://visitcount.itsvg.in) is More than just a Visit Counter. Best Customization, Realtime Analytics, Best No-Code Solution, Works everywhere, all for free !
 
@@ -31,8 +28,11 @@ Presenting [Capture my Tweet](https://capturemytweet.itsvg.in) , Turn your tweet
 ### <img src="https://colpat.itsvg.in/logo.png" width="16px" />  ColPat : Color Palette & Design Tool
 [ColPat](https://colpat.itsvg.in) is the The ultimate Color Palette & Design Tool powered by AI 🤖 !
 
+### <img src="https://capturemytweet.itsvg.in/logo.png" width="16px" />  Capture my Tweet
+Presenting [Capture my Tweet](https://capturemytweet.itsvg.in) , Turn your tweets into wonderful images and post them anywhere! Tons of Features and Customisations, all for free ! **[Discontinued due to changes in Twitter API]**
+
 ### <img src="https://gtce.itsvg.in/logo.png" width="16px" />  GTCE : GitHub Twitter Card Embed
-[GTCE](https://gtce.itsvg.in) is the Best Realtime Tweet embed with 60+ awesome themes. Get a Verified badge, Showcase your Tweet on Website, GitHub ReadMe or anywhere else, Download your tweets as image.
+[GTCE](https://gtce.itsvg.in) is the Best Realtime Tweet embed with 60+ awesome themes. Get a Verified badge, Showcase your Tweet on Website, GitHub ReadMe or anywhere else, Download your tweets as image. **[Discontinued due to changes in Twitter API]**
 
 ### <img src="https://blazeup.itsvg.in/logo.png" width="16px" /> BlazeUp
 [BlazeUp](https://blazeup.itsvg.in) provides Blazzzing fast responses directly to your inbox. Endless Integrations, Countless awesome things to do with BlazeUp.
