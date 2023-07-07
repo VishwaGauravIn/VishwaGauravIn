@@ -40,6 +40,9 @@ Presenting [Capture my Tweet](https://capturemytweet.itsvg.in) , Turn your tweet
 ### <img src="https://spiffy.itsvg.in/logo.png" width="16px" /> Spiffy - Aesthetic Screenshots ✨
 [Spiffy](https://spiffy.itsvg.in/) converts your boring screenshots into aesthetic and beautiful screenshots. Upto 8K download, Custom & AI Background, Shadows, Corners & more.
 
+### <img src="https://litprompts.itsvg.in/logo.png" width="16px" /> Lit Prompts : Best AI prompts 🔥
+[Lit Prompts](https://litprompts.itsvg.in) lets you discover the ultimate collection of top AI prompts for ChatGPT, Bard, and beyond. Elevate your prompt skills with this open-source project. Unleash the full potential of AI-driven interactions.
+
 ### <img src="https://user-images.githubusercontent.com/81325730/231859788-8a1d9700-8ff8-46dc-af3f-039f7168eca2.png" width="16px" /> LinkedIn GPT Pro
 [LinkedIn GPT Pro](https://chrome.google.com/webstore/detail/linkedin-gpt-pro/ngigjiefmdoebbhacdimenldfckckgdm) lets you use the Power of ChatGPT directly in LinkedIn: Generate highly engaging posts effortlessly in no time.
 
