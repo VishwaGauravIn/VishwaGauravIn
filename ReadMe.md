@@ -25,11 +25,11 @@
 ### <img src="https://gprm.itsvg.in/logo.png" width="16px" />  GPRM : GitHub Profile ReadMe Maker
 [GPRM](https://gprm.itsvg.in) is the Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free !
 
+### <img src="https://cmt.itsvg.in/logo.png" width="16px" />  Capture my Tweet
+Presenting [Capture my Tweet](https://cmt.itsvg.in) , Turn your tweets into wonderful images and post them anywhere! Tons of Features and Customisations, all for free !
+
 ### <img src="https://colpat.itsvg.in/logo.png" width="16px" />  ColPat : Color Palette & Design Tool
 [ColPat](https://colpat.itsvg.in) is the The ultimate Color Palette & Design Tool powered by AI 🤖 !
-
-### <img src="https://capturemytweet.itsvg.in/logo.png" width="16px" />  Capture my Tweet
-Presenting [Capture my Tweet](https://capturemytweet.itsvg.in) , Turn your tweets into wonderful images and post them anywhere! Tons of Features and Customisations, all for free ! **[Discontinued due to changes in Twitter API]**
 
 ### <img src="https://gtce.itsvg.in/logo.png" width="16px" />  GTCE : GitHub Twitter Card Embed
 [GTCE](https://gtce.itsvg.in) is the Best Realtime Tweet embed with 60+ awesome themes. Get a Verified badge, Showcase your Tweet on Website, GitHub ReadMe or anywhere else, Download your tweets as image. **[Discontinued due to changes in Twitter API]**
