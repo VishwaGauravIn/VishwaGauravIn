@@ -86,7 +86,7 @@ Website for NGO [Hunger No More (HNM)](https://teamhnm.org). Made with NextJS an
 [Pro Writer🚀](https://prowriter.itsvg.in/) , Pro yet Minimal Writer for your all need! [Development in Progress] . [Contribute](https://github.com/VishwaGauravIn/pro-writer)
 
 ### <img src="https://realtime-news.vercel.app/favicon.ico" width="16px" />  Realtime News
-[Realtime News](https://hash.itsvg.in/) is Just a simple website made with NextJS and CSS that shows realtime news.
+[Realtime News](https://realtime-news.vercel.app/) is Just a simple website made with NextJS and CSS that shows realtime news.
 
 ### <img src="https://vq.itsvg.in/logo.png" width="16px" /> VQ - Test Your MIND and BODY
 [VQ](https://vq.itsvg.in) is Low level sentimental analysis to test your Mind and Brain in less than 5 minutes.
