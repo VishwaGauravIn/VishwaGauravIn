@@ -31,6 +31,9 @@ Presenting [Capture my Tweet](https://cmt.itsvg.in) , Turn your tweets into wond
 ### <img src="https://colpat.itsvg.in/logo.png" width="16px" />  ColPat : Color Palette & Design Tool
 [ColPat](https://colpat.itsvg.in) is the The ultimate Color Palette & Design Tool powered by AI 🤖 !
 
+### <img src="https://jobmatch.itsvg.in/logo.png" width="16px" />  JobMatchPro : your AI Recruiter
+[JobMatchPro](https://jobmatch.itsvg.in) maximizes your job selection chances! Evaluate, enhance resumes, and level up job search with AI for dream company success.
+
 ### <img src="https://gtce.itsvg.in/logo.png" width="16px" />  GTCE : GitHub Twitter Card Embed
 [GTCE](https://gtce.itsvg.in) is the Best Realtime Tweet embed with 60+ awesome themes. Get a Verified badge, Showcase your Tweet on Website, GitHub ReadMe or anywhere else, Download your tweets as image. **[Discontinued due to changes in Twitter API]**
 
