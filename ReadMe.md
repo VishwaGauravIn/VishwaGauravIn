@@ -97,6 +97,9 @@ Website for NGO [Hunger No More (HNM)](https://teamhnm.org). Made with NextJS an
 ### <img src="https://vq.itsvg.in/logo.png" width="16px" /> VQ - Test Your MIND and BODY
 [VQ](https://vq.itsvg.in) is Low level sentimental analysis to test your Mind and Brain in less than 5 minutes.
 
+### <img src="https://yasic.vercel.app/logo.png" width="16px" /> YASIC - Yet Another Simple Image Converter
+[YASIC](https://yasic.vercel.app) lets you Convert & Resize your images into PNG, JPG, BMP, WEBP and more.
+
 ### <img src="https://realtime-news.vercel.app/favicon.ico" width="16px" />  SerBot
 [SerBot](https://serbot.vercel.app/) is admin panel for Smart Work Clothing. In concept of this we are using sensors, Wi-Fi module and GPS through which we measure  environmental and worker conditions are these data presented in dashboard available to safety specialist physicians, upper management and many other supporting. Key insights leading to risk assessments and mitigation actions to reduce or preventing injuries and accident.
 
