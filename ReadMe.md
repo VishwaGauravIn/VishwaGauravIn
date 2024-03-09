@@ -34,6 +34,9 @@ Presenting [Capture my Tweet](https://cmt.itsvg.in) , Turn your tweets into wond
 ### <img src="https://jobmatch.itsvg.in/assets/logo.png" width="16px" />  JobMatchPro : your AI Recruiter
 [JobMatchPro](https://jobmatch.itsvg.in) maximizes your job selection chances! Evaluate, enhance resumes, and level up job search with AI for dream company success.
 
+### <img src="https://ytviral.itsvg.in/favicon.ico" width="16px" />  YTViral: Viral Spark in Every Video
+[YTViral](https://ytviral.itsvg.in) is a revolutionary platform designed to help content creators identify and capitalize on the most viral moments within their YouTube videos. Unleash the viral potential of your content and elevate your online presence with YTViral.
+
 ### <img src="https://mernifier.itsvg.in/logo.png" width="16px" />  MERNifier: Supercharge Your Development!
 [Mernifier](https://mernifier.itsvg.in) elevates your development game. Generate test cases, squash bugs, and autocomplete efficiently. Trained on the latest data. Your go-to for MERN mastery!
 
