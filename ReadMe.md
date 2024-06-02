@@ -38,7 +38,7 @@ Presenting [Capture my Tweet](https://cmt.itsvg.in) , Turn your tweets into wond
 [YTViral](https://ytviral.itsvg.in) is a revolutionary platform designed to help content creators identify and capitalize on the most viral moments within their YouTube videos. Unleash the viral potential of your content and elevate your online presence with YTViral.
 
 ### <img src="https://pixlyze.itsvg.in/favicon.ico" width="16px" />  Pixlyze : Detect AI-generated images instantly 🚀
-[Pizlyze](https://pixlyze.itsvg.in) is a powerful tool that uncovers the truth behind every image with our powerful and advanced AI detection.
+[Pixlyze](https://pixlyze.itsvg.in) is a powerful tool that uncovers the truth behind every image with our powerful and advanced AI detection.
 
 ### <img src="https://mernifier.itsvg.in/logo.png" width="16px" />  MERNifier: Supercharge Your Development!
 [Mernifier](https://mernifier.itsvg.in) elevates your development game. Generate test cases, squash bugs, and autocomplete efficiently. Trained on the latest data. Your go-to for MERN mastery!
