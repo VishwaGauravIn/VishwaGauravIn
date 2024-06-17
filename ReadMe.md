@@ -34,6 +34,9 @@ Presenting [Capture my Tweet](https://cmt.itsvg.in) , Turn your tweets into wond
 ### <img src="https://jobmatch.itsvg.in/assets/logo.png" width="16px" />  JobMatchPro : your AI Recruiter
 [JobMatchPro](https://jobmatch.itsvg.in) maximizes your job selection chances! Evaluate, enhance resumes, and level up job search with AI for dream company success.
 
+### <img src="https://ytword.itsvg.in/favicon.ico" width="16px" />  YouTube Word Counter : Discover What YouTubers Say the Most
+Discover top words & catchphrases in YouTube videos! Analyze word frequency & understand creators' content deeper. Free YouTube word counter. [Try now!](https://ytword.itsvg.in)
+
 ### <img src="https://ytviral.itsvg.in/favicon.ico" width="16px" />  YTViral: Viral Spark in Every Video
 [YTViral](https://ytviral.itsvg.in) is a revolutionary platform designed to help content creators identify and capitalize on the most viral moments within their YouTube videos. Unleash the viral potential of your content and elevate your online presence with YTViral.
 
