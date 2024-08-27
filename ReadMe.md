@@ -55,17 +55,20 @@ Discover top words & catchphrases in YouTube videos! Analyze word frequency & un
 ### <img src="https://spiffy.itsvg.in/logo.png" width="16px" /> Spiffy - Aesthetic Screenshots ✨
 [Spiffy](https://spiffy.itsvg.in/) converts your boring screenshots into aesthetic and beautiful screenshots. Upto 8K download, Custom & AI Background, Shadows, Corners & more.
 
+### <img src="https://mfc.itsvg.in/favicon.ico" width="16px" />  Advanced Mutual Fund Calculator
+[Advanced Mutual Fund Calculator](https://mfc.itsvg.in) lets you calculate Mutual Fund returns with advanced features like inflation adjustment, tax deductions, tax exemptions, visualize your returns on real-time charts, and more.
+
 ### <img src="https://litprompts.itsvg.in/logo.png" width="16px" /> Lit Prompts : Best AI prompts 🔥
 [Lit Prompts](https://litprompts.itsvg.in) lets you discover the ultimate collection of top AI prompts for ChatGPT, Bard, and beyond. Elevate your prompt skills with this open-source project. Unleash the full potential of AI-driven interactions.
+
+### <img src="https://metaseo.itsvg.in/logo.png" width="16px" />  metaSEO : Meta tags for best SEO
+[metaSEO](https://metaseo.itsvg.in) lets you generate meta tags in one click for the best SEO of your website, rank high in search results, and appear unique when someone shares your link!
 
 ### <img src="https://user-images.githubusercontent.com/81325730/231859788-8a1d9700-8ff8-46dc-af3f-039f7168eca2.png" width="16px" /> LinkedIn GPT Pro
 [LinkedIn GPT Pro](https://chrome.google.com/webstore/detail/linkedin-gpt-pro/ngigjiefmdoebbhacdimenldfckckgdm) lets you use the Power of ChatGPT directly in LinkedIn: Generate highly engaging posts effortlessly in no time.
 
 ### <img src="https://curioai.itsvg.in/logo.png" width="16px" /> curioAI
 [curioAI](https://curioai.itsvg.in/) is a magical website that always provides the answers you seek! Plus, elevate your social media game by generating engaging Tweets and LinkedIn posts to boost your engagement.
-
-### <img src="https://metaseo.itsvg.in/logo.png" width="16px" />  metaSEO : Meta tags for best SEO
-[metaSEO](https://metaseo.itsvg.in) lets you generate meta tags in one click for the best SEO of your website, rank high in search results, and appear unique when someone shares your link!
 
 ### <img src="https://ytools.itsvg.in/logo.png" width="16px" />  ytools : YouTube Toolbox
 [ytools : YouTube Toolbox](https://ytools.itsvg.in) is the first YouTube toolbox, that has multiple tools which will help you to get everything that you need at one place. Features: YouTube Music Player, YouTube Downloader, Calculate Playlist length, Keyword Finder, Thumbnail downloader.
