@@ -212,11 +212,9 @@ if (codeWorking){
 ## GitHub Streaks 🔥
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=VishwaGauravIn&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
-<!--
 ## Latest Tweet 🐦  
 [![](https://gtce.itsvg.in/api?username=VishwaGauravIn&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-Twitter API pricing changes Killed this tool sadly
--->
+> Twitter API pricing changes Killed this tool sadly, but we are trying to find a workaround, let's see.
 
 ### Thanks for Visiting my GitHub Profile!
 
