@@ -12,7 +12,7 @@
 ## Creation 👨‍💻
 
 
-### <img src="https://itsvg.in/logo.png" width="16px" />  Portfolio 
+### <img src="https://itsvg.in/favicon.ico" width="16px" />  Portfolio 
 [Vishwa Gaurav - Portfolio](https://itsvg.in) ,
 </> and Crafted with 💛 by Vishwa Gaurav
 
