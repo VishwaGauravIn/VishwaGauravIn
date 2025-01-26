@@ -223,4 +223,4 @@ if (codeWorking){
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
+![](https://visitcountpro.netlify.app/api?id=VishwaGauravIn&pretty=true)
