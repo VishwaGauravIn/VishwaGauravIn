@@ -40,6 +40,9 @@ Discover top words & catchphrases in YouTube videos! Analyze word frequency & un
 ### <img src="https://ytviral.itsvg.in/favicon.ico" width="16px" />  YTViral: Viral Spark in Every Video
 [YTViral](https://ytviral.itsvg.in) is a revolutionary platform designed to help content creators identify and capitalize on the most viral moments within their YouTube videos. Unleash the viral potential of your content and elevate your online presence with YTViral.
 
+### <img src="https://lh3.googleusercontent.com/HVFjYsnDiNiOZdgPjRqB0fdUx6-ExA0a1fVLbLo9tFJ3LiEYjv-uQUa1YwG1ZeM5zKC6wpOtpn6n3PJsDIqbKUuwBQ=s120" width="16px" />  ProScreener – Premium Stock Analysis
+[ProScreener](https://lh3.googleusercontent.com/HVFjYsnDiNiOZdgPjRqB0fdUx6-ExA0a1fVLbLo9tFJ3LiEYjv-uQUa1YwG1ZeM5zKC6wpOtpn6n3PJsDIqbKUuwBQ=s120) is a premium stock analysis extension offering advanced trend, cyclical, growth, and money flow insights for smarter trading decisions.
+
 ### <img src="https://pixlyze.itsvg.in/favicon.ico" width="16px" />  Pixlyze : Detect AI-generated images instantly 🚀
 [Pixlyze](https://pixlyze.itsvg.in) is a powerful tool that uncovers the truth behind every image with our powerful and advanced AI detection.
 
